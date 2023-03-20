@@ -17,7 +17,7 @@ public class Cirks {
 		do {
 		System.out.println("Cik reizes mest kaulinu?");
 		reizes = scan.nextInt();
-		}while(reizes<1);
+		} while(reizes<1);
 		mestKaulinu(reizes);
 		scan.close();
 	}
