@@ -9,7 +9,7 @@ Java metama kaulina projekts
 - [x] Izveidots personigais GitHub konts
 - [x] Izveidots pirmais repo GitHub
 - [x] Lokalais projekts izveidots GitHub 
-- [ ] Papildinat GitHub repo un iegut to lokalai lietosanai
+- [x] Papildinat GitHub repo un iegut to lokalai lietosanai
 - [ ] Projektam piesledzies vel vien programmetajs, veikta kopdarbosanas
-- [ ] Projekta ieviests jauns zars (branch)
-- [ ] Veikta sapludinasana un noversts merge conflict
+- [x] Projekta ieviests jauns zars (branch)
+- [ ] Veikta abu programmetaju sapludinasana un noversts merge conflict
